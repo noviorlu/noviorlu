@@ -9,6 +9,7 @@
 - [Computer Graphic Labs](https://github.com/noviorlu/Computer_Graphic_Labs)
 - [PerlinNoise LandScape](https://github.com/noviorlu/PerlinNoise_LandScape)
 - ComputerArchi ([O-GEHL Branch Predictior](https://ieeexplore.ieee.org/document/1431573) Implement, Pipelining, etc.)
+- [Backtrack: 3D parkour Game](https://github.com/FinalProject-Team1-Backtrack/mainProject)
 ##  Im currently Learning
 - [Physical Light Transport](https://ssteinberg.xyz/2021/04/26/generic_physical_light_transport_framework/)
 ## Contact Me
