@@ -2,7 +2,6 @@
 
 ## I'm noviorlu [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yang-chen-noviorlu/)
 - 🔭 I am interested in Real-Time Rendering Techniques, as well as Software Development & Computer System
-- ⚡ Fun Fact im doing Kendo <img src='https://github.com/noviorlu/noviorlu/assets/77127281/264432e3-a0a6-49d6-8aee-1b4d253ee537' width='20'> (briefly to say we use wooden stick to hit each other:smile:)
 ##  Projects I've been working on
 - [Real Time Rendering Techniques!!!](https://github.com/noviorlu/RealTimeRendering)
 - [Computer Graphic Labs](https://github.com/noviorlu/Computer_Graphic_Labs)
