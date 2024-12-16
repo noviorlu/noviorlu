@@ -8,9 +8,7 @@
 - [PerlinNoise LandScape](https://github.com/noviorlu/PerlinNoise_LandScape)
 - ComputerArchi ([O-GEHL Branch Predictior](https://ieeexplore.ieee.org/document/1431573) Implement, Pipelining, etc.)
 - [Backtrack: 3D parkour Game](https://github.com/FinalProject-Team1-Backtrack/mainProject)
-##  Im currently Learning
-- Physical Light Transport
-  - PPM!
+
 ## Contact Me
 If you have any questions or would like to discuss, please feel free to reach out to me via email or linkedin!
 
